@@ -13,7 +13,7 @@ The data used for this classification is PyTorch is [here](https://pytorch.org/v
 
 <img width="149" alt="image" src="https://github.com/austinfroste/handwriting_classification_cnn/assets/65328557/846a485b-b016-4f25-a276-2158a53ad270">
 
-The data consists of grayscale images of handwritten single digit numerical characters in the range 0 through 9. This dataset is from the MNIST (Modified National Institute of Standards and Technology) and is highly coveted as a machine-learning-friendly human handwriting dataset.
+The data consists of grayscale images of handwritten single digit numerical characters in the range 0 through 9. This dataset is from the MNIST (Modified National Institute of Standards and Technology) and is highly coveted as a machine-learning-friendly human handwriting dataset. To learn a little more about the dataset, [see more](https://en.wikipedia.org/wiki/MNIST_database).
 
 
 ### 1.2 Model
