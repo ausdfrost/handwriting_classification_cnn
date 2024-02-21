@@ -10,6 +10,7 @@ I wanted to write and implement a convolutional neural network using PyTorch tha
 
 ### 1.1 Data
 The data used for this classification is PyTorch is [here](https://pytorch.org/vision/stable/generated/torchvision.datasets.MNIST.html#torchvision.datasets.MNIST):
+
 <img width="149" alt="image" src="https://github.com/austinfroste/handwriting_classification_cnn/assets/65328557/846a485b-b016-4f25-a276-2158a53ad270">
 
 The data consists of grayscale images of handwritten single digit numerical characters in the range 0 through 9. This dataset is from the MNIST (Modified National Institute of Standards and Technology) and is highly coveted as a machine-learning-friendly human handwriting dataset.
