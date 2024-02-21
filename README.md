@@ -1,7 +1,8 @@
 # handwriting_classification_cnn
 
 ## Contents
-1. Numerical Handwriting Classification
+
+1. [Numerical Handwriting Classification](#)
 
 ## 1. Numerical Handwriting Classification
 I wanted to write and implement a convolutional neural network using PyTorch that would be able to classify handwriting data using a train, valid, test approach.
