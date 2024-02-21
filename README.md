@@ -39,3 +39,7 @@ My model boasted test high accuracy that converged around 98 to 99 percent (Figu
 
 ### 1.5 Next steps
 Seeing that I was able to implement a successful model using numerical data, I would now like to further expand into more complex data such as alphabetical.
+
+---
+
+Thanks for checking out my project!
