@@ -11,7 +11,7 @@ I wanted to write and implement a convolutional neural network using PyTorch tha
 ### 1.1 Data
 <img width="149" alt="image" src="https://github.com/austinfroste/handwriting_classification_cnn/assets/65328557/846a485b-b016-4f25-a276-2158a53ad270">
 
-<em>Torchvision MNIST Dataset</em>
+<em>Figure 1: Torchvision MNIST Dataset</em>
 
 I used the Torchvision [MNIST Dataset](https://pytorch.org/vision/stable/generated/torchvision.datasets.MNIST.html#torchvision.datasets.MNIST) for my model (sample seen above). The data consists of grayscale images of handwritten single digit numerical characters in the range 0 through 9. This dataset is from the MNIST (Modified National Institute of Standards and Technology) and is highly coveted as a machine-learning-friendly human handwriting dataset. To learn a little more about the dataset, [see more](https://en.wikipedia.org/wiki/MNIST_database).
 
