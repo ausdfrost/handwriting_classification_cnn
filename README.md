@@ -17,7 +17,7 @@ I used the Torchvision [MNIST Dataset](https://pytorch.org/vision/stable/generat
 
 
 ### 1.2 Model
-I implemented a convolutional neural network with two hidden layers, L2 norm regularization, and a learning rate of 0.001 and got the following results. You can view the deployed model in a Jupyter Notebook [here](handwriting_classification_cnn.ipynb).
+I implemented a convolutional neural network with two hidden layers, L2 norm regularization, and a learning rate of 0.001 and got the following results. You can view the deployed model in a Jupyter Notebook [here](numeric_handwriting.ipynb).
 
 ### 1.3 Results
 The output for my model is as follows:
