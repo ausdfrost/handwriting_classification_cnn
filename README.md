@@ -4,11 +4,14 @@
 1. Numerical Handwriting Classification
 
 ## 1. Numerical Handwriting Classification
-I wanted to write and implement a convolutional neural network that would be able to classify handwriting data. 
+I wanted to write and implement a convolutional neural network using PyTorch that would be able to classify handwriting data using a train, valid, test approach.
 
 ### 1.1 Data
 The data used for this classification is PyTorch is [here](https://pytorch.org/vision/stable/generated/torchvision.datasets.MNIST.html#torchvision.datasets.MNIST):
 <img width="149" alt="image" src="https://github.com/austinfroste/handwriting_classification_cnn/assets/65328557/846a485b-b016-4f25-a276-2158a53ad270">
+
+The data consists of grayscale images of handwritten single digit numerical characters in the range 0 through 9. This dataset is from the MNIST (Modified National Institute of Standards and Technology) and is highly coveted as a machine-learning-friendly human handwriting dataset.
+
 
 ### 1.2 Model
 I implemented a convolutional neural network with two hidden layers, L2 norm regularization, and a learning rate of 0.001 and got the following results.
