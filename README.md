@@ -27,4 +27,4 @@ The output for my model is as follows:
 <img width="869" alt="image" src="https://github.com/austinfroste/handwriting_classification_cnn/assets/65328557/67254d54-efbd-424a-ad4d-2f6747643c5b">
 
 ### 1.4 Findings
-My model boasted test high accuracy that converged around 98 to 99 percent. This high test accuracy was coupled with low test loss that converged at around 0.025 to 0.35. My model performed well on the unseen test and valid data, as seen in both accuracy and loss curves, further showing the success of the model.
+My model boasted test high accuracy that converged around 98 to 99 percent. This high test accuracy was coupled with low test loss that converged at around 0.025 to 0.035. My model performed well on the unseen test and valid data, as seen in both accuracy and loss curves, further showing the success of the model.
