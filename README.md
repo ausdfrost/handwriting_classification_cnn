@@ -15,6 +15,7 @@ I implemented a convolutional neural network with two hidden layers, L2 norm reg
 
 ### 1.3 Results
 The output for my model is as follows:
+
 <img width="698" alt="image" src="https://github.com/austinfroste/handwriting_classification_cnn/assets/65328557/2bcd9f3d-1ec8-4e24-93f0-ed91f45c76f1">
 <img width="854" alt="image" src="https://github.com/austinfroste/handwriting_classification_cnn/assets/65328557/414b8a75-f2d6-473e-98f4-784a6751901b">
 <img width="869" alt="image" src="https://github.com/austinfroste/handwriting_classification_cnn/assets/65328557/67254d54-efbd-424a-ad4d-2f6747643c5b">
