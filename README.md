@@ -1,8 +1,23 @@
 # handwriting_classification_cnn
-a convolutional neural network for handwriting classification built on PyTorch to predict what number (0-9) is in an image.
 
-### The data
-The data used for this classification is PyTorch is here:
+## Contents
+1. Numerical Handwriting Classification
 
-[here](https://pytorch.org/vision/stable/generated/torchvision.datasets.MNIST.html#torchvision.datasets.MNIST)
+## 1. Numerical Handwriting Classification
+I wanted to write and implement a convolutional neural network that would be able to classify handwriting data. 
+
+### 1.1 Data
+The data used for this classification is PyTorch is [here](https://pytorch.org/vision/stable/generated/torchvision.datasets.MNIST.html#torchvision.datasets.MNIST):
 <img width="149" alt="image" src="https://github.com/austinfroste/handwriting_classification_cnn/assets/65328557/846a485b-b016-4f25-a276-2158a53ad270">
+
+### 1.2 Model
+I implemented a convolutional neural network with two hidden layers, L2 norm regularization, and a learning rate of 0.001 and got the following results.
+
+### 1.3 Results
+The output for my model is as follows:
+<img width="698" alt="image" src="https://github.com/austinfroste/handwriting_classification_cnn/assets/65328557/2bcd9f3d-1ec8-4e24-93f0-ed91f45c76f1">
+<img width="854" alt="image" src="https://github.com/austinfroste/handwriting_classification_cnn/assets/65328557/414b8a75-f2d6-473e-98f4-784a6751901b">
+<img width="869" alt="image" src="https://github.com/austinfroste/handwriting_classification_cnn/assets/65328557/67254d54-efbd-424a-ad4d-2f6747643c5b">
+
+### 1.4 Findings
+My model boasted test high accuracy that converged around 98 to 99 percent. This high test accuracy was coupled with low test loss that converged at around 0.025 to 0.35. My model performed well on the unseen test and valid data, as seen in both accuracy and loss curves, further showing the success of the model.
