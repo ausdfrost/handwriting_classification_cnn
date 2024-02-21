@@ -1,4 +1,4 @@
-# handwriting_classification_cnn
+# Handwriting Classification with a Convolutional Neural Network
 
 I wanted to write and implement a convolutional neural network using PyTorch that would be able to classify handwriting data using a train, valid, test approach. The following shows my exploration and process to implement this successfully. This was a fun exercise, and I got to learn a lot more about convolutional neural networks. I hope you enjoy!
 
