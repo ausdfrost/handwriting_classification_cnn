@@ -9,7 +9,7 @@ I wanted to write and implement a convolutional neural network using PyTorch tha
 ## 1. Numerical Handwriting Classification
 
 ### 1.1 Data
-The data used for this classification is PyTorch is [here](https://pytorch.org/vision/stable/generated/torchvision.datasets.MNIST.html#torchvision.datasets.MNIST):
+The Torchvision dataset used for this classification is [here](https://pytorch.org/vision/stable/generated/torchvision.datasets.MNIST.html#torchvision.datasets.MNIST):
 
 <img width="149" alt="image" src="https://github.com/austinfroste/handwriting_classification_cnn/assets/65328557/846a485b-b016-4f25-a276-2158a53ad270">
 
