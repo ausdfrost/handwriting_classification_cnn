@@ -22,15 +22,15 @@ I implemented a convolutional neural network with two hidden layers, L2 norm reg
 ### 1.3 Results
 The output for my model is as follows:
 
-<img width="698" alt="image" src="https://github.com/austinfroste/handwriting_classification_cnn/assets/65328557/2bcd9f3d-1ec8-4e24-93f0-ed91f45c76f1">
+<img width="691" alt="image" src="https://github.com/austinfroste/handwriting_classification_cnn/assets/65328557/3fe49552-a5d9-4e3c-8568-fba6c7b2b482">
 
 <em>**Figure 2. Model Output**</em>
 
-<img width="854" alt="image" src="https://github.com/austinfroste/handwriting_classification_cnn/assets/65328557/414b8a75-f2d6-473e-98f4-784a6751901b">
+<img width="848" alt="image" src="https://github.com/austinfroste/handwriting_classification_cnn/assets/65328557/f31378ec-bfdb-4265-a3a8-c64ca58408ca">
 
 <em>**Figure 3. Prediction Accuracy Performance**</em>
 
-<img width="869" alt="image" src="https://github.com/austinfroste/handwriting_classification_cnn/assets/65328557/67254d54-efbd-424a-ad4d-2f6747643c5b">
+<img width="854" alt="image" src="https://github.com/austinfroste/handwriting_classification_cnn/assets/65328557/718003e8-c5bf-4024-b287-15f1370f2ce9">
 
 <em>**Figure 4. Prediction Loss Performance**</em>
 
