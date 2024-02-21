@@ -1,2 +1,2 @@
 # cnn_image_classification
-a convolutional neural network for rgb image classification built on Pytorch to predict what class an image belongs to
+a convolutional neural network for handwriting classification built on PyTorch to predict what number (0-9) is in an image.
