@@ -16,7 +16,7 @@ The data consists of grayscale images of handwritten single digit numerical char
 
 
 ### 1.2 Model
-I implemented a convolutional neural network with two hidden layers, L2 norm regularization, and a learning rate of 0.001 and got the following results.
+I implemented a convolutional neural network with two hidden layers, L2 norm regularization, and a learning rate of 0.001 and got the following results. You can view the deployed model in a Jupyter Notebook [here](handwriting_classification_cnn.ipynb).
 
 ### 1.3 Results
 The output for my model is as follows:
