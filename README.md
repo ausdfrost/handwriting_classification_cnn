@@ -35,7 +35,7 @@ I will now present the results of my model:
 <em>**Figure 4. Prediction Loss Performance**</em>
 
 ### 1.4 Findings
-My model boasted test high accuracy that converged around 98 to 99 percent (Figure 2). This high test accuracy was coupled with low test cross entropy loss that converged at around 0.025 to 0.035 (Figure 2). My model performed well on the unseen test and valid data, as seen in both accuracy and loss curves (Figures 3, 4), further showing the success of the model.
+My model boasted test high accuracy that converged around 98 to 99 percent (Figure 2). This high test accuracy was coupled with low test cross-entropy loss that converged at around 0.025 to 0.035 (Figure 2). My model performed well on the unseen test and valid data, as seen in both accuracy and loss curves (Figures 3, 4), further showing the success of the model.
 
 ### 1.5 Next steps
 Seeing that I was able to implement a successful model using numerical data, I would now like to further expand into more complex data such as alphabetical.
